@@ -15,7 +15,7 @@ You will find in this [repository](https://github.com/dgj-22/dgj-22-sigdump) aud
 
 ---
 ## Discord, Clubhouse, Element:
-https://linktr.ee/gflx_dgj_22
+[https://linktr.ee/gflx_dgj_22](https://linktr.ee/gflx_dgj_22)
 
 ---
 ## Audio
@@ -76,4 +76,4 @@ Lastly, we tuned in a few voice channels and had the Russian speakers translate.
 **A:** No. Most of us don't and use online translations tools.
 
 **Q:** How can I help?
-**A:** Visit our Discord and Element Channels found here: https://linktr.ee/gflx_dgj_22
+**A:** Visit our Discord and Element Channels found here: [https://linktr.ee/gflx_dgj_22](https://linktr.ee/gflx_dgj_22)
