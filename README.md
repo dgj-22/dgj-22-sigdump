@@ -1,5 +1,7 @@
 # Monitoring, Archiving and Transcribing Open Civilian Russian Radio Communications During the Ukraine Russia War
-You will find in this [repository](https://github.com/dgj-22/dgj-22-sigdump) audio recordings and transcripts of open Russian radio communications collected from 3/1/22 to 3/6/22. Locations include Lipetsk, Rossosh, Crimea and Moscow. We are continuously recording. Please join our diverse team as we workt o make sense out of what is going on in Ukraine and Russia during a time of propoganda and censorship. Check out the first transcription [here](https://raw.githubusercontent.com/dgj-22/dgj-22-sigdump/main/Transcriptions/Dump%201.1/1.1%20DGJ-22%20English.pdf)
+You will find in this [repository](https://github.com/dgj-22/dgj-22-sigdump) audio recordings and transcripts of open Russian radio communications collected from 3/1/22 to 3/6/22. Locations include Lipetsk, Rossosh, Crimea and Moscow. We are continuously recording. Please join our diverse team as we workt o make sense out of what is going on in Ukraine and Russia during a time of propoganda and censorship. 
+
+Check out the first transcription [here].(https://raw.githubusercontent.com/dgj-22/dgj-22-sigdump/main/Transcriptions/Dump%201.1/1.1%20DGJ-22%20English.pdf)
 
 ## Talents we need
 - Radio recorders
