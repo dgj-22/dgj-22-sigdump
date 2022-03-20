@@ -50,7 +50,7 @@ Second, we looked at the RF spectrum monitor to see if there were any anomalies.
 
 Lastly, we tuned in a few voice channels and had the Russian speakers with us translate. No, no one was talking about a nuke. 
 
-After explaining the strong evidence we observed from the raw data we collected online, the room filled with silence of relief. Everyone was fully convinced that the viral video was highly implausible. Where can we find this kind of data in the news media today?
+After explaining the strong evidence we observed from the raw data we collected online, the room filled with silence of relief. Everyone was fully convinced that the viral video was highly implausible. **Where can we find this kind of data in the news media today?**
 
 ---
 ## FAQ
