@@ -41,7 +41,7 @@ In a time of uncertainty and conflict, what can an individual with no real polit
 Our vision is to develop an accessible, decentralized platform for raw data collection using open-source tools and methods that the general public can then utilize to gather, analyze, and archive unfiltered, first hand accounts of people and events in areas of interest, such as active war zones.
 
 ---
-## Why this matters?:
+## Why this matters?
 Within the first week of starting this project, someone came into our Clubhouse room of 30-40 people with a newly viral YouTube video they claimed to be evidence of a nuclear bomb explosion in Ukraine. The emotions in the room immediately dropped as people started to fear the worst. Instead of letting our feelings plague our better judgment, some of us used the internet radio tools we had in front us to verify the dreadful claim.
 
 First, we checked to see if we can still connect to the radios near Ukraine over the internet. Yes, we could.
