@@ -21,7 +21,7 @@ Check out the first transcription [here](https://raw.githubusercontent.com/dgj-2
 
 ---
 ## Audio
-Audio files require paid Github service for added storage. Currently working on a budget. Message directly if you need audio files directly. Shared files must be vetted before sharing to public.
+Audio files require paid Github service for added storage. Currently working on a budget. Message directly (Discord found in LinkTree) if you need audio files directly. Shared files must be vetted before sharing to public.
 
 ---
 ## Tools
